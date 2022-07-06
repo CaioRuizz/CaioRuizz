@@ -1,7 +1,7 @@
 ## Introduction 👋
 
 - Hi, I'm Caio Ruiz. I'm a Software Engineer and Data Analyst with 3 years of experience, knowledge of Python, Javascript and Golang.
-Studying Computer Engineering at Faculdade Engenheiro Salvador Area. Worked on process automation and
+Studying Computer Engineering at Faculdade Engenheiro Salvador Arena. Worked on process automation and
 data analysis projects, reducing workloads that used to take up to four hours to zero.
 
 - I'm interested in contributing to companies to change people's lives with technology.
